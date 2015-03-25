@@ -9,7 +9,7 @@
     <Button android:id="@+id/facebookBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="FACEBOOK"
+        android:text="FACEBOOK!"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
 
